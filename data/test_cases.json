@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "category": "Hindi - Greetings",
+    "lang": "hi",
+    "input": "namaste",
+    "expected_transliteration": "नमस्ते",
+    "expected_translation": "Hello / Greetings"
+  },
+  {
+    "id": 2,
+    "category": "Hindi - Introduction",
+    "lang": "hi",
+    "input": "mera naam manjunath hai",
+    "expected_transliteration": "मेरा नाम मंजुनाथ है",
+    "expected_translation": "My name is Manjunath"
+  },
+  {
+    "id": 3,
+    "category": "Hindi - Common Question",
+    "lang": "hi",
+    "input": "aap kaise ho?",
+    "expected_transliteration": "आप कैसे हो?",
+    "expected_translation": "How are you?"
+  },
+  {
+    "id": 4,
+    "category": "Hindi - Short Sentence with Punctuation",
+    "lang": "hi",
+    "input": "shubh prabhat, aapka din shubh ho!",
+    "expected_transliteration": "शुभ प्रभात, आपका दिन शुभ हो!",
+    "expected_translation": "Good morning, have a good day!"
+  },
+  {
+    "id": 5,
+    "category": "Hindi - Sentence with Numbers",
+    "lang": "hi",
+    "input": "aaj 15 august hai",
+    "expected_transliteration": "आज 15 अगस्त है",
+    "expected_translation": "Today is 15 August"
+  },
+  {
+    "id": 6,
+    "category": "Hindi - Polite Request",
+    "lang": "hi",
+    "input": "kripya meri madad karein",
+    "expected_transliteration": "कृपया मेरी मदद करें",
+    "expected_translation": "Please help me"
+  },
+  {
+    "id": 7,
+    "category": "Hindi - Common State",
+    "lang": "hi",
+    "input": "main theek hoon",
+    "expected_transliteration": "मैं ठीक हूँ",
+    "expected_translation": "I am fine"
+  },
+  {
+    "id": 8,
+    "category": "Hindi - Mixed Case",
+    "lang": "hi",
+    "input": "Mera Bharat Mahan",
+    "expected_transliteration": "मेरा भारत महान",
+    "expected_translation": "My India is great"
+  },
+  {
+    "id": 9,
+    "category": "Hindi - Gratitude Phrase",
+    "lang": "hi",
+    "input": "dhanyawad dosto",
+    "expected_transliteration": "धन्यवाद दोस्तों",
+    "expected_translation": "Thank you friends"
+  },
+  {
+    "id": 10,
+    "category": "Hindi - Informational Sentence",
+    "lang": "hi",
+    "input": "delhi bharat ki rajdhani hai",
+    "expected_transliteration": "दिल्ली भारत की राजधानी है",
+    "expected_translation": "Delhi is the capital of India"
+  },
+  {
+    "id": 11,
+    "category": "Hindi - Weather Description",
+    "lang": "hi",
+    "input": "aaj mausam bahut accha hai",
+    "expected_transliteration": "आज मौसम बहुत अच्छा है",
+    "expected_translation": "Today the weather is very good"
+  },
+  {
+    "id": 12,
+    "category": "Hindi - Single Word Greeting",
+    "lang": "hi",
+    "input": "shukriya",
+    "expected_transliteration": "शुक्रिया",
+    "expected_translation": "Thank you"
+  },
+  {
+    "id": 13,
+    "category": "Hindi - Single Word Place",
+    "lang": "hi",
+    "input": "vidyalaya",
+    "expected_transliteration": "विद्यालय",
+    "expected_translation": "School"
+  },
+  {
+    "id": 14,
+    "category": "Hindi - Festival Wishes",
+    "lang": "hi",
+    "input": "diwali ki shubhkaamnaayein",
+    "expected_transliteration": "दिवाली की शुभकामनाएं",
+    "expected_translation": "Happy Diwali wishes"
+  },
+  {
+    "id": 15,
+    "category": "Hindi - Long Sentence",
+    "lang": "hi",
+    "input": "yeh ek aadhunik aur saral smart writing assistant project hai jo chatron ke liye banaya gaya hai",
+    "expected_transliteration": "यह एक आधुनिक और सरल स्मार्ट राइटिंग असिस्टेंट प्रोजेक्ट है जो छात्रों के लिए बनाया गया है",
+    "expected_translation": "This is a modern and simple smart writing assistant project"
+  },
+  {
+    "id": 16,
+    "category": "Kannada - Greeting",
+    "lang": "kn",
+    "input": "namaskara",
+    "expected_transliteration": "ನಮಸ್ಕಾರ",
+    "expected_translation": "Hello / Greetings"
+  },
+  {
+    "id": 17,
+    "category": "Kannada - Question",
+    "lang": "kn",
+    "input": "hegiddira?",
+    "expected_transliteration": "ಹೇಗಿದ್ದೀರ?",
+    "expected_translation": "How are you?"
+  },
+  {
+    "id": 18,
+    "category": "Kannada - Introduction",
+    "lang": "kn",
+    "input": "nanna hesaru manjunath",
+    "expected_transliteration": "ನನ್ನ ಹೆಸರು ಮಂಜುನಾಥ",
+    "expected_translation": "My name is Manjunath"
+  },
+  {
+    "id": 19,
+    "category": "Kannada - State Phrase",
+    "lang": "kn",
+    "input": "karnataka sundara rajya",
+    "expected_transliteration": "ಕರ್ನಾಟಕ ಸುಂದರ ರಾಜ್ಯ",
+    "expected_translation": "Karnataka is a beautiful state"
+  },
+  {
+    "id": 20,
+    "category": "Kannada - Gratitude",
+    "lang": "kn",
+    "input": "dhanyavadagalu",
+    "expected_transliteration": "ಧನ್ಯವಾದಗಳು",
+    "expected_translation": "Thank you"
+  },
+  {
+    "id": 21,
+    "category": "Kannada - Welcoming Phrase",
+    "lang": "kn",
+    "input": "banni kootkoli",
+    "expected_transliteration": "ಬನ್ನಿ ಕೂತ್ಕೊಳ್ಳಿ",
+    "expected_translation": "Come and sit"
+  },
+  {
+    "id": 22,
+    "category": "Kannada - Casual Food Query",
+    "lang": "kn",
+    "input": "oota aayitha?",
+    "expected_transliteration": "ಊಟ ಆಯ್ತಾ?",
+    "expected_translation": "Did you eat?"
+  },
+  {
+    "id": 23,
+    "category": "Kannada - Morning Greeting",
+    "lang": "kn",
+    "input": "shubhodaya",
+    "expected_transliteration": "ಶುಭೋದಯ",
+    "expected_translation": "Good morning"
+  },
+  {
+    "id": 24,
+    "category": "Kannada - Weather Query",
+    "lang": "kn",
+    "input": "ivattu tumba bisi ide",
+    "expected_transliteration": "ಇವತ್ತು ತುಂಬಾ ಬಿಸಿ ಇದೆ",
+    "expected_translation": "Today is very hot"
+  },
+  {
+    "id": 25,
+    "category": "Kannada - Long Sentence",
+    "lang": "kn",
+    "input": "bengaluru karnataka rajyada rajadhani mattu bharatada technology kendra",
+    "expected_transliteration": "ಬೆಂಗಳೂರು ಕರ್ನಾಟಕ ರಾಜ್ಯದ ರಾಜಧಾನಿ ಮತ್ತು ಭಾರತದ ತಂತ್ರಜ್ಞಾನ ಕೇಂದ್ರ",
+    "expected_translation": "Bangalore is the capital of Karnataka state and India's technology hub"
+  },
+  {
+    "id": 26,
+    "category": "Punctuation - Repeated Marks",
+    "lang": "hi",
+    "input": "kya hua??? sach me!!",
+    "expected_transliteration": "क्या हुआ? सच मे!",
+    "expected_translation": "What happened? Really!"
+  },
+  {
+    "id": 27,
+    "category": "Punctuation - Irregular Whitespace",
+    "lang": "hi",
+    "input": "namaste ,  dost .",
+    "expected_transliteration": "नमस्ते, दोस्त।",
+    "expected_translation": "Hello, friend."
+  },
+  {
+    "id": 28,
+    "category": "Contraction - Chat Slang",
+    "lang": "hi",
+    "input": "plz help me wid this work",
+    "expected_transliteration": "प्लीज हेल्प मी विद दिस वर्क",
+    "expected_translation": "Please help me with this work"
+  },
+  {
+    "id": 29,
+    "category": "Alphanumeric - Year and Exclamation",
+    "lang": "hi",
+    "input": "2026 me hum AI seekh rahe hain!",
+    "expected_transliteration": "2026 मे हम एआई सीख रहे हैं!",
+    "expected_translation": "In 2026 we are learning AI!"
+  },
+  {
+    "id": 30,
+    "category": "Edge Case - Empty Input",
+    "lang": "hi",
+    "input": "",
+    "expected_transliteration": "",
+    "expected_translation": ""
+  },
+  {
+    "id": 31,
+    "category": "Edge Case - Whitespace Only",
+    "lang": "hi",
+    "input": "     ",
+    "expected_transliteration": "",
+    "expected_translation": ""
+  },
+  {
+    "id": 32,
+    "category": "Edge Case - Special Symbols",
+    "lang": "hi",
+    "input": "@#$%^&*",
+    "expected_transliteration": "@#$%^&*",
+    "expected_translation": ""
+  },
+  {
+    "id": 33,
+    "category": "Edge Case - Pure Digits",
+    "lang": "hi",
+    "input": "1234567890",
+    "expected_transliteration": "1234567890",
+    "expected_translation": "1234567890"
+  },
+  {
+    "id": 34,
+    "category": "Kannada - Polite Agreement",
+    "lang": "kn",
+    "input": "haudu",
+    "expected_transliteration": "ಹೌದು",
+    "expected_translation": "Yes"
+  },
+  {
+    "id": 35,
+    "category": "Kannada - Night Greeting",
+    "lang": "kn",
+    "input": "shubha rathri",
+    "expected_transliteration": "ಶುಭ ರಾತ್ರಿ",
+    "expected_translation": "Good night"
+  }
+]
